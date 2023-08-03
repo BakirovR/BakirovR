@@ -16,7 +16,7 @@
 
 ## Get in touch:
 
-📧 [Email](rnbakirov@icloud.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([t.me/from_ruslan](https://t.me/from_ruslan))
+📧 [Email](rnbakirov@icloud.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([t.me/from_ruslan](https://t.me/@from_ruslan))
 
 
 ## Let's connect and collaborate on exciting data projects! 🚀
