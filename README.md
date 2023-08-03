@@ -2,11 +2,11 @@
 
 ## About me:
 
-📊 Data Analyst | 💧 Hydraulic Engineer | 🎨 Paint Shop Expert | ⚽ Football Fanatic | ♟️ Chess Enthusiast | 🎿 Ski Adventurer | ✈️ Passionate Traveler
+📊 Data Analyst | 💧 Hydraulic Engineer | 🚗 Paint Shop Manager | ⚽ Football Lover | ♟️ Chess Enthusiast | 🎿 Ski Adventurer | ✈️ Passionate Traveler
 
 ## My Stack:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-FFD700?style=for-the-badge&logo=mysql&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 
 ## Find me here:
 
