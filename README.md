@@ -17,7 +17,8 @@
 ## Get in touch:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_ruslan)
-[![mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=gmail&logoColor=4F7DB3)](mailto:rnbakirov@icloud.com)
+[![iCloud Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=gmail&logoColor=4F7DB3)](mailto:rnbakirov@icloud.com)
+
 
 
 ## Let's connect and collaborate on exciting data projects! 🚀
