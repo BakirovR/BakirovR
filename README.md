@@ -17,8 +17,7 @@
 ## Get in touch:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_ruslan)
-[![Mail](https://img.shields.io/badge/iCloud%20Mail-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:rnbakirov@icloud.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:rnbakirov@icloud.com)
+[![Email](https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:rnbakirov@icloud.com)
 
 
 
